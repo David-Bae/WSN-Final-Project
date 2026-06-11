@@ -1,0 +1,21 @@
+# Contiki build artifacts
+obj_sky/
+*.sky
+*.ihex
+*.hex
+*.a43
+*.map
+*.co
+*.o
+*.d
+*.a
+*.e
+*.srec
+
+# Generated Contiki symbol stubs
+symbols.c
+symbols.h
+
+# Editor / OS noise
+*~
+.DS_Store
